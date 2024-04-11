@@ -31,7 +31,7 @@ fun main() {
     )
     mapFilmSerie["Inception"] = false
     println("Quelle est la couleur du cheval blanc d'Henri IV")
-    val reponseUser  = readln().toInt
+    val reponseUser  = readln()
     println("La réponse que vous avez donnée est $reponseUser")
 
 }

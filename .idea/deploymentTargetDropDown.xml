@@ -26,6 +26,9 @@
       <entry key="mod4stateviewmodel">
         <State />
       </entry>
+      <entry key="mod5navigation">
+        <State />
+      </entry>
     </value>
   </component>
 </project>
